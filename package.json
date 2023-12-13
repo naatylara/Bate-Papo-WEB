@@ -10,8 +10,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "(https://github.com/naatylara/Bate-Papo-Web.git)"
-  },
+    "url": "https://github.com/naatylara/Bate-Papo-Web.git"
+  }  ,
   "keywords": [
     "node",
     "aprender",
