@@ -1,5 +1,5 @@
 # Bate-Papo-WEB
-Trabalho Final - PROGRAMAÇÃO PARA INTERNET 
+Trabalho Final - PROGRAMAÇÃO PARA INTERNET - UNOESTE Presidente Prudente
 
 Desenvolvimento de um sistema web para uma sala de bate-papo
 
